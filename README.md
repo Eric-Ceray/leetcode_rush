@@ -1,2 +1,1 @@
-# leetcode_rush
-leetcode_rush
+再不rush就找不到工作啦！
